@@ -1,4 +1,4 @@
-# WeatherApp
+# Weather-App
 
 Bu Kotlin tabanlı hava durumu uygulaması, kullanıcılara anlık hava durumu bilgilerini sunmayı amaçlamaktadır. Uygulama, modern bir arayüz ve kullanıcı dostu özellikler sunmak için çeşitli teknolojileri kullanmaktadır.
 
