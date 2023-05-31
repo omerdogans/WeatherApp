@@ -73,6 +73,9 @@ class MainActivity : AppCompatActivity() {
                 binding.tvLatitude.text = data.coord.lat.toString()
                 binding.tvLongitude.text = data.coord.lon.toString()
                 binding.tvDescription.text ="It's " + data.weather[0].description
+
+
+                Log.d("derece","derece ${data.main.temp}" )
             }
         })
 
