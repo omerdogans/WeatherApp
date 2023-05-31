@@ -16,9 +16,11 @@ import io.reactivex.schedulers.Schedulers
 class MainViewModel:ViewModel() {
 
     val weatherRepo = WeatherDaoRepository()
+    var weather = MutableLiveData<List<WeatherModel>>()
 
-    fun refreshData(cityName: String){
-       weatherRepo.getDataFromAPI(cityName)
+    fun refreshData(name: String){
+       weatherRepo.getDataFromAPI(name)
     }
+
 
 }

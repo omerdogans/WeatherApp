@@ -1,9 +1,7 @@
 package com.example.weatherapp.retrofit
 
-import com.example.weatherapp.data.entity.WeatherAnswer
 import com.example.weatherapp.data.entity.WeatherModel
 import io.reactivex.Single
-import retrofit2.http.FormUrlEncoded
 import retrofit2.http.GET
 import retrofit2.http.POST
 import retrofit2.http.Query
