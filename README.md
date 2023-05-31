@@ -18,9 +18,5 @@ Bu Kotlin tabanlı hava durumu uygulaması, kullanıcılara anlık hava durumu b
 3. OpenWeatherMap API anahtarınızı `WeatherApiClient.kt` dosyasındaki `API_KEY` değişkenine yerleştirin.
 4. Projeyi emülatörde veya gerçek bir cihazda çalıştırın.
 
-## Katkıda Bulunma
-
-Herhangi bir geri bildirim veya katkıda bulunmak isterseniz, lütfen bir sorun (issue) açın veya pull request gönderin. Projeye katkılarınızı memnuniyetle karşılarız.
-
 
 <img src="https://github.com/omerdogn/WeatherApp/assets/39188613/ae930d59-8c21-49e7-b27d-4f02ee771378" alt="Resim Açıklaması" width="500" height="800">
