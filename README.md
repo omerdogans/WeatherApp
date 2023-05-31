@@ -1,5 +1,5 @@
 # WeatherApp
 MVVM - Retrofit - Glide 
-<img width="140" height="100" src="![weatherapp](https://github.com/omerdogans/WeatherApp/assets/39188613/38c25e4c-a342-47b0-8a8b-53efff01a8d9")>
 
-<img width="140" height="100" src="![weatherapp](https://github.com/omerdogans/WeatherApp/assets/39188613/38c25e4c-a342-47b0-8a8b-53efff01a8d9" alt="Agar.io Private Server Açıldı">
+![weatherapp](https://github.com/omerdogn/WeatherApp/assets/39188613/c5c8ac66-3eb3-49a3-ab71-08fcf40e583e)
+<img src="https://github.com/omerdogn/WeatherApp/assets/39188613/c5c8ac66-3eb3-49a3-ab71-08fcf40e583e" alt="Resim Açıklaması" width="500" height="300">
