@@ -19,4 +19,4 @@ Bu Kotlin tabanlı hava durumu uygulaması, kullanıcılara anlık hava durumu b
 4. Projeyi emülatörde veya gerçek bir cihazda çalıştırın.
 
 
-<img src="https://github.com/omerdogn/WeatherApp/assets/39188613/ae930d59-8c21-49e7-b27d-4f02ee771378" alt="Resim Açıklaması" width="500" height="800">
+<img src="https://github.com/omerdogn/WeatherApp/assets/39188613/ae930d59-8c21-49e7-b27d-4f02ee771378" alt="Resim Açıklaması" width="400" height="700">
