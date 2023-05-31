@@ -23,5 +23,4 @@ Bu Kotlin tabanlı hava durumu uygulaması, kullanıcılara anlık hava durumu b
 Herhangi bir geri bildirim veya katkıda bulunmak isterseniz, lütfen bir sorun (issue) açın veya pull request gönderin. Projeye katkılarınızı memnuniyetle karşılarız.
 
 
-
-<img src="https://github.com/omerdogn/WeatherApp/assets/39188613/c5c8ac66-3eb3-49a3-ab71-08fcf40e583e" alt="Resim Açıklaması" width="500" height="800">
+<img src="https://github.com/omerdogn/WeatherApp/assets/39188613/ae930d59-8c21-49e7-b27d-4f02ee771378" alt="Resim Açıklaması" width="500" height="800">
